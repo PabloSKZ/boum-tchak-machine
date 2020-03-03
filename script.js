@@ -73,7 +73,7 @@ function checkPressesKey(key){
 kick.addEventListener('click', event => playKick())
 closed.addEventListener('click', event => playClosed())
 clap.addEventListener('click', event => playClap())
-Eightoeight.addEventListener('click', event => playEightoeight())
+eightoeight.addEventListener('click', event => playEightoeight())
 hat.addEventListener('click', event => playHat())
 snare.addEventListener('click', event => playSnare())
 
